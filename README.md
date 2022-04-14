@@ -3,6 +3,7 @@
 ## Requirements
 
 - Titanium SDK 10.1.1
+- iOS 14.0
 
 ## Example
 ```js
