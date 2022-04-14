@@ -44,4 +44,4 @@ airprint.print({
 
 ## Author
 
-- Daniel Ethier ([dethier@gradekeeper.com](mailto:dethier@gradekeeper.com)
+- Daniel Ethier ([dethier@gradekeeper.com](mailto:dethier@gradekeeper.com))
