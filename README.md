@@ -34,7 +34,7 @@ airprint.print({
 	
 //	Print html contained in a string
 
-var markup = '... some html ...';
+var markup = '<html><head></head><body><h1>Print me!</h1></body></html>';
 
 airprint.print({
 	html:	markup
